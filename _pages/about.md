@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: dp.jpg
+  image: dp-5.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi 👋! My research is centered on building <u>Responsible and Trustworthy AI</u> for high-stakes domains like <u>healthcare</u>. Alongside this, I am actively exploring the frontiers of <u>multimodal medical reasoning</u> and <u>agentic models</u> to create more capable and reliable systems.
+Hi 👋! My research is centered on building <u>Responsible and Trustworthy AI</u> for high-stakes domains like <u>Healthcare</u>. Alongside this, I am actively exploring the frontiers of <u>multimodal medical reasoning</u> and <u>agentic frameworks</u> to create more capable and reliable systems.
 
 Currently, I am an <u>AI Research Engineer</u> with the AI Innovation Team at the Ministry of Defence, Saudi Arabia, contributing to AI-based autism diagnosis research in partnership with the [MIT Media Lab](https://www.media.mit.edu/). Concurrently, I am collaborating with [Dr. Md Rizwan Parvez](https://scholar.google.com/citations?user=KhC8rtcAAAAJ&hl=en), a Research Scientist at [QCRI](https://www.hbku.edu.qa/en/qcri), to investigate the reliability of state-of-the-art Vision-Language Models.
 
